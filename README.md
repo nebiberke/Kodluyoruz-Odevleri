@@ -42,7 +42,8 @@
 
 ##  Css ödevim - 3
 
-![css ödevi 3](https://user-images.githubusercontent.com/37274618/188321876-46c45b22-8c60-4a2b-8a89-5dba9808aeeb.png)
+![google yeni](https://user-images.githubusercontent.com/37274618/188334413-58ce817f-df0d-472d-b352-e23a69c28404.png)
+
 
 ---
 
