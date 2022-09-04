@@ -1,0 +1,49 @@
+.menu li {
+    display: inline-block;
+}
+.menu li a {
+    padding: 0 10px 0 10px;
+}
+.menu ul {
+    text-align: center;
+    margin-right: 50px;
+}
+.menu h1 {
+    font-size:35px; 
+    text-align:center; 
+    margin-top: 0;
+    padding-top: 20px;
+}
+.menu {
+    background-color: bisque;
+}
+.resimler img {
+    width: 300px;
+}
+.resimler li {
+    list-style: none    ;
+}
+.resimler li {
+    text-align: center;
+    padding: 5px 0 10px 0;
+}
+.hakkimda {
+    text-align: center;
+}
+.hakkimda h1 {
+    font-size: 30px;
+    color:cadetblue;
+    font-weight:900 ;
+}
+.iletisim {
+    text-align: center;
+}
+.iletisim h1 {
+    font-size: 30px;
+    color:cadetblue;
+}
+.iletisim li {
+    font-size: 20px;
+    margin-right: 30px;
+    padding-top: 10px;
+}

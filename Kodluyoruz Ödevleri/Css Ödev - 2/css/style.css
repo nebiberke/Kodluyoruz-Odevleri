@@ -1,0 +1,29 @@
+.logo {
+    text-align: center;
+}
+
+.tablo {
+    width: 90%;
+}
+
+.tablo tr td ul {
+    list-style: none;
+}
+
+.search {
+    background-color:#EEEEEE ;
+    
+}
+
+.box1 {
+    width: 37%;
+    background-color:#7EE5DA;
+}
+.box2 {
+    background-color: #70CCC2;
+}
+.box3 {
+    background-color:#62B3AA ;
+    text-align: right;
+}
+
